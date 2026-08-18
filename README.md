@@ -8,8 +8,4 @@ Try the App on Your Phone
 
 You can try the app on your phone by scanning the following QR code with Expo Go:
 
-
-    <svg x="214.0327868852459" y="214.0327868852459" width="83.9344262295082" height="83.9344262295082" viewBox="0 0 116 116" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M63.9114 35.4964L52.1135 35.4964L30.6671 76.3932L39.9023 81.2706L58.0329 46.7391L76.1169 81.2829L85.333 76.3847L63.9114 35.4964Z" fill="white"/>
-    </svg>
-  </svg>
+https://expo.dev/preview/update?message=Create+eas.json&updateRuntimeVersion=1.0.0&createdAt=2026-08-18T07%3A12%3A37.909Z&slug=exp&projectId=d21ce18f-5d2e-4277-9a74-d75637a538bf&group=63a4c64a-815d-40a8-89d4-e46eb1ed4fb2
